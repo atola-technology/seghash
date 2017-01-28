@@ -6,7 +6,7 @@ seghash is a free tool that allows to:
 
 Supported hash types: MD5, SHA1, SHA224, SHA256, SHA384, SHA512
 
-## How segmented hashing is it different from regular hashing?
+## How segmented hashing is different from regular hashing?
 
 With regular hashing, you get a single hash for the entire image.
 
